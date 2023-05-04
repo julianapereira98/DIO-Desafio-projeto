@@ -1,0 +1,7 @@
+Olá, sou Juliana e estou muito animada em compartilhar um pouco sobre mim e minha jornada até aqui.
+
+Eu sou natural de Belo Horizonte, Minas Gerais, e atualmente estou no último semestre do curso de Análise e Desenvolvimento de Sistemas na Universidade Pitágoras UNOPAR Anhanguera. Ao longo da minha trajetória, tive a oportunidade de trabalhar em diferentes áreas, mas descobri minha maior paixão na área de dados, onde tive minha primeira experiência profissional. Desde então, me interesso por assuntos como Data Analytics, Data Science, Data Engineer, Estatística e Machine Learning. Além disso, estou envolvida em um trabalho voluntário onde ensino programação para crianças carentes de uma periferia, uma atividade que tem sido muito gratificante e inspiradora.
+
+Minha carreira começou em um Órgão Público, onde trabalhei por oito anos em diversas áreas, incluindo atendimento ao público, administrativo e financeiro. Essa experiência me ensinou a trabalhar sobre pressão, a ser assertiva e disciplinada. Logo após, tive a oportunidade de estagiar em uma startup de logística, onde me aprofundei no universo da tecnologia e pude aprender sobre várias ferramentas e linguagens. Essa experiência foi muito importante para meu desenvolvimento profissional.
+
+Estou muito empolgada em continuar aprendendo e me desenvolvendo na área de tecnologia e dados, e espero poder contribuir para o avanço da tecnologia de forma significativa.
